@@ -1,0 +1,6 @@
+pandas~=2.2.0rc0
+numpy~=1.26.3
+SQLAlchemy~=2.0.25
+requests-cache~=1.1.1
+openmeteo-requests~=1.1.0
+retry-requests~=2.0.0
