@@ -1,16 +1,4 @@
-Commands needed to run program:
-
-To run code for C1-C3:
-python3 main.py
-
-To run methods in C2, respectively:
-Input 1
-Input 2
-Input 3
-Input 4 to exit
-
-To run code for C4-C6:
-python3 weather_db.py
+Program used to query weather data in Vancouver for July 13th from 2019-2023. This program utilizes pandas, numpy, sqlalchemy, and Open Meteo's Weather API. 
 
 References:
 
